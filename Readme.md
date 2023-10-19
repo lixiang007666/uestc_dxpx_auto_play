@@ -51,6 +51,8 @@
 
     下载"chromedriver_win32.zip",将里面的"chromedriver.exe"放到与fzdx.py同一目录下
 
+    chromedriver 117 下载地址：https://download.csdn.net/download/weixin_44926968/88301287?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-download-2%7Edefault%7ECTRLIST%7EPaid-1-88301287-blog-114648724.235%5Ev38%5Epc_relevant_yljh&depth_1-utm_source=distribute.pc_relevant_t0.none-task-download-2%7Edefault%7ECTRLIST%7EPaid-1-88301287-blog-114648724.235%5Ev38%5Epc_relevant_yljh&utm_relevant_index=1
+
 2. 安装完selenium和python后,将驱动安放好位置,还需要进行一些额外配置
 
    首先将chrome安装目录"C:\Program Files\Google\Chrome\Application"(默认为这个,需要根据你的电脑自行查找)添加到环境变量path,添加过程详见百度
